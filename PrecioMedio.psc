@@ -1,9 +1,9 @@
 Algoritmo PrecioMedio
-	Escribir "Ingrese el Precio del Producto Primer Establecimiento"
+	Escribir "Ingrese el Precio del Producto del Primer Establecimiento"
 	Leer precio1
-	Escribir "Ingrese el Precio del Mismo Producto Segundo Establecimiento"
+	Escribir "Ingrese el Precio del Mismo Producto del Segundo Establecimiento"
 	Leer precio2
-	Escribir "Ingrese el Precio del Mismo Producto Tercer Establecimiento"
+	Escribir "Ingrese el Precio del Mismo Producto del Tercer Establecimiento"
 	Leer precio3
 	//Se podria mejorar al garantizar que exista un valor distinto
 	//De cero para que no afecte al promedio.
